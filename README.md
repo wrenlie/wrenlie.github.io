@@ -1,8 +1,6 @@
 body {
-  background-color: #ffffff;
-  background-image: url("(https://i.imgur.com/xsizE7G.jpg)");
+  background-image: url(https://i.imgur.com/xsizE7G.jpeg);
   background-repeat: repeat-x;
-  background-position: right top;
 }
 
 <h1 style="background-color:DodgerBlue;">Town Manager Idle</h1>
